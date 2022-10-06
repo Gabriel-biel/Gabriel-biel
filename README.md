@@ -11,6 +11,8 @@
   <img align="center" alt="Gabriel-biel-reactNative" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" />
   <img align="center" alt="Gabriel-biel-nextjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
 <div>
+  
+  ##
 
 <div>
   <a href="https://github.com/Gabriel-biel">
