@@ -8,7 +8,7 @@
   <img align="center" alt="Gabriel-biel-Ts" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
   <img align="center" alt="Gabriel-biel-node" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
   <img align="center" alt="Gabriel-biel-reactjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" />
-  <img align="center" alt="Gabriel-biel-reactNative" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" />
+<!--   <img align="center" alt="Gabriel-biel-reactNative" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" /> -->
   <img align="center" alt="Gabriel-biel-nextjs" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
 <div>
   
