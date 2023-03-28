@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScript
+- 🌱 Estudanto TypeScript
+- 🌱 Estudanto React
+- 🌱 Estudando Nest 
 - 😄 ele/dele
 
 <div>
